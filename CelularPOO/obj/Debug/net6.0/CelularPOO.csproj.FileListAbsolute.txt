@@ -1,0 +1,15 @@
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\bin\Debug\net6.0\CelularPOO.exe
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\bin\Debug\net6.0\CelularPOO.deps.json
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\bin\Debug\net6.0\CelularPOO.runtimeconfig.json
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\bin\Debug\net6.0\CelularPOO.dll
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\bin\Debug\net6.0\CelularPOO.pdb
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.csproj.AssemblyReference.cache
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.AssemblyInfoInputs.cache
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.AssemblyInfo.cs
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.dll
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\refint\CelularPOO.dll
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.pdb
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\CelularPOO.genruntimeconfig.cache
+C:\Projetos\c#-dio-projects\CelularPOO\CelularPOO\obj\Debug\net6.0\ref\CelularPOO.dll
